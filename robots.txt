@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yonsei-ent.clinic/sitemap.xml
